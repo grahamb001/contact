@@ -14,11 +14,17 @@
 
 <body>
 
+  <header>
+    <h1>Contact Me</h1>
+  </header>
+
+
+
       </a></p>
     </section>
 
     <aside id="contact-info">
-      <h2>Contact Info</h2>
+
       <ul>
         <li><strong>Email:</strong> <a href="#">hicobp@gmail.com</a></li>
         <li><strong>Github:</strong> <a href="#">https://github.com/grahamb001</a></li>
